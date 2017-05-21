@@ -21,9 +21,9 @@ BasicCard();
 
 
 //argument means parameter
-function Person(firstName, lastNAme){
+function Person(firstName, lastName){
     this.firstName = firstName;
-    this.lastName = lastNAme;
+    this.lastName = lastName;
 }
 
 
